@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="./img/self.png" alt="Self Portrait">
+    <p>My name is Jyne'a Williams. I am a junior Computer Science student 
+    at North Carolina A&T State University. <br> I was born in New Orleans, Louisiana
+    but raised in Washington, D.C. I was first introduced to computer <br> science and coding in middle school. Ever since then it has been my passion!</p>
+    <ul>
+        <li>COMP 322: Internet Systems</li>
+        <li>COMP 350: Operating Systems</li>
+        <li>COMP 365: AI & Machine Learning</li>
+        <li>COMP 390: Social Implications of Computing</li>
+        <li>ECEN 375: Computer Architecture and Organization</li>
+        <li>MISC 302: Leadership Changing Environment</li>
+        <li>MISC 307: Leadership Laboratory</li>
+    </ul>
+    <a href="introduction.html">Introduction Page</a>
+    <br>
+    <a href="little_prince.html">Little Prince Page</a>
+    
+</body>
+</html>
